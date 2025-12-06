@@ -1,7 +1,7 @@
 # 🤖 [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 
 💡 Welcome to the "AI Agents in LangGraph" course! The course will equip you with the knowledge and skills to build and enhance AI agents using the LangGraph extension of LangChain.
-
+ 
 ## Course Summary
 In this course, you'll explore key principles of designing AI agents with LangGraph, learning how to build flow-based applications and enhance agent capabilities. Here's what you can expect to learn and experience:
 
